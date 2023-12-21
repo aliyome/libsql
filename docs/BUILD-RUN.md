@@ -32,7 +32,7 @@ Be sure to stop sqld before using `sqlite3` like this.
 
 ## Download a prebuilt binary
 
-The [sqld releases page] for this repository lists released versions of sqld
+The [sqld releases page](https://github.com/tursodatabase/libsql/releases) for this repository lists released versions of sqld
 along with downloads for macOS and Linux.
 
 ## Build and install with Homebrew
